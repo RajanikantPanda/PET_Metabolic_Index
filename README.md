@@ -1,4 +1,14 @@
-# PET_Metabolic_Index
+%%%%%%%%%%%%%% PET_Metabolic_Index %%%%%%%%%%%%
+%%%%%%% Developed By: Johan Stender
+%%%%%%% Modified and Adopted By: Rajanikant Panda
+%%%%%%% Date of Development: 1st May 2019
+%%%%%%% Date of Modification: 1st December 2021
+%%%%%%% Supervised: Steven Laureys and Jitka Annen
+%%%%%%% Guided By: Aurore Thibaut and Olivia Olivia Gosseries
+%%%%%%% Reference papers:
+%%%%%%% 1. Stender J, Gosseries O, Bruno M-A, et al. (2014) Diagnostic precision of PET imaging and functional MRI in disorders of consciousness: a clinical validation study. Lancet, 384: 514– 522.
+%%%%%%% 2. Thibaut and Panda et al. (2021). Preservation of brain activity in unresponsive patients identifies MCS star. Annals of Neurology, 90(1), 89-100.
+%%%%%%%%%%%%%%%%%%%
 
 The program compute Positron emission tomography (PET) Metabolic Index for Best Hemispher (MIBH) as well different brain Network (i.e., Fronriparietal, DMN, SMN, Visual, Auditory, Subcortical etc)
 
